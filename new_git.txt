@@ -1,2 +1,5 @@
 firstday
 learngit
+
+study git commit -m“ information of change”
+
