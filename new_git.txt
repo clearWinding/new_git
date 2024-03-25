@@ -4,3 +4,5 @@ learngit
 study git commit -m“ information of change”
 
 study  git  version
+
+git checkout --nwe_git.txt
